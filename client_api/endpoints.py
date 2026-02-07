@@ -1,0 +1,6 @@
+POSTS_ENDPOINT = '/posts'
+COMMENTS_ENDPOINT = '/comments'
+ALBUMS_ENDPOINT = '/albums'
+PHOTOS_ENDPOINT = '/photos'
+TODOS_ENDPOINT = '/todos'
+USERS_ENDPOINT = '/users'
