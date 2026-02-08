@@ -15,3 +15,4 @@ def get_posts(base_url):
     client = ClientAPI(base_url)
     posts_api = GetPostsAPI(client)
     return posts_api
+
